@@ -2,7 +2,7 @@ import math
 
 # Function to calculate the volume of a cube
 def cube_volume(side_length):
-    return side_length ** 3
+    return side_lengthh ** 3
 
 # Function to calculate the volume of a sphere
 def sphere_volume(radius):
